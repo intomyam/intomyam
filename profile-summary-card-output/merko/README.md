@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/intomyam/intomyam/main/profile-summary-card-output/merko/4-productive-time.svg)
-```
-
-    

@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/intomyam/intomyam/main/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)
-```
-
-    
